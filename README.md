@@ -202,7 +202,6 @@ Futuristic React + Vite portfolio with a full cyber aesthetic. Canvas particle n
 
 [![Email](https://img.shields.io/badge/eugeniobrb23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugeniobrb23@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://eugenio-portfolio.vercel.app)
 
 </div>
 

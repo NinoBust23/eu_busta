@@ -196,17 +196,16 @@ Futuristic React + Vite portfolio with a full cyber aesthetic. Canvas particle n
 
 ---
 
-## Contact
+## Socials
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/eugeniobrb23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugeniobrb23@gmail.com)
-&nbsp;
+      
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eu_bustaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eugenio_bustaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eugenio-bustamante) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/eugenio_bustaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@eugenio_bustaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eugenio_bustaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eugeniobrb@icloud.com) 
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Built fast. Shipped real. No lorem ipsum.</sub>
+<sub>Built with 🎾</sub>
 </div>
